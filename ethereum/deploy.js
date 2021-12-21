@@ -4,7 +4,7 @@ const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
   "recycle help three dose female mystery teach large plate soon zone mango",
-  "wss://goerli.infura.io/ws/v3/3101da5cdc644a2fa2a24cec201bf011"
+  "https://goerli.infura.io/v3/3101da5cdc644a2fa2a24cec201bf011"
 );
 const web3 = new Web3(provider);
 
